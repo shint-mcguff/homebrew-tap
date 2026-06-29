@@ -14,3 +14,4 @@ brew install shint-mcguff/tap/<formula>
 | [lanshare](https://github.com/shint-mcguff/lanshare) | Share a directory over your LAN with a QR code to open it. |
 | [audioswitch](https://github.com/shint-mcguff/audioswitch) | Switch the macOS audio output device from the menu bar or CLI. |
 | [wifiqr](https://github.com/shint-mcguff/wifiqr) | Show a QR code that joins a Wi-Fi network. |
+| [epoch](https://github.com/shint-mcguff/epoch) | Convert between Unix timestamps and human-readable dates. |
