@@ -15,3 +15,4 @@ brew install shint-mcguff/tap/<formula>
 | [audioswitch](https://github.com/shint-mcguff/audioswitch) | Switch the macOS audio output device from the menu bar or CLI. |
 | [wifiqr](https://github.com/shint-mcguff/wifiqr) | Show a QR code that joins a Wi-Fi network (CLI + menu bar). |
 | [epoch](https://github.com/shint-mcguff/epoch) | Convert between Unix timestamps and human-readable dates. |
+| [micguard](https://github.com/shint-mcguff/micguard) | See when your mic is live and mute it from the menu bar or CLI. |
